@@ -1,0 +1,9 @@
+C:\Users\11572\Desktop\DayWorkClose\DayWorkCloseService\bin\Debug\DayWorkCloseService.dll
+C:\Users\11572\Desktop\DayWorkClose\DayWorkCloseService\bin\Debug\DayWorkCloseService.pdb
+C:\Users\11572\Desktop\DayWorkClose\DayWorkCloseService\bin\Debug\Quartz.dll
+C:\Users\11572\Desktop\DayWorkClose\DayWorkCloseService\bin\Debug\Quartz.pdb
+C:\Users\11572\Desktop\DayWorkClose\DayWorkCloseService\bin\Debug\Quartz.xml
+C:\Users\11572\Desktop\DayWorkClose\DayWorkCloseService\obj\Debug\DayWorkCloseService.csprojAssemblyReference.cache
+C:\Users\11572\Desktop\DayWorkClose\DayWorkCloseService\obj\Debug\DayWorkCloseService.csproj.CopyComplete
+C:\Users\11572\Desktop\DayWorkClose\DayWorkCloseService\obj\Debug\DayWorkCloseService.dll
+C:\Users\11572\Desktop\DayWorkClose\DayWorkCloseService\obj\Debug\DayWorkCloseService.pdb
